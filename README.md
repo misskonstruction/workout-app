@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+homework due 2-8-17:
+Creating homepage feature spec
 
-Things you may want to cover:
+1. create a folder within the 'spec' folder called 'features'
+2. in the features folder create a file called 'creating_homepage_spec.rb'
 
-* Ruby version
+Details of the spec:
 
-* System dependencies
+1. should see a link called 'Home'
+2. should see a link called 'Athlete's Den'
+3. should see content 'Workout Lounge!'
+4. should see content 'Show off your workout'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Call the controller DashboardsController
