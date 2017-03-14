@@ -1,0 +1,12 @@
+<div class="col-md-8">
+  <p id="notice">
+    <%= notice %>
+  </p>
+  <h1><%= @friend.full_name %>'s Exercises</h1>
+
+  <%= render "friend_workouts" %>
+
+  <br>
+
+  <%= link_to 'Back', user_exercises_path(current_user) , class: "btn btn-success btn-lg link" %>
+</div>
