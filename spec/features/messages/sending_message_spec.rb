@@ -9,7 +9,7 @@ RSpec.feature "Sending Messages" do
     @sarah = User.create!(first_name: "Sarah",
                         last_name: "Anderson",
                         email: "sarah@example.com",
-                        password: "password")
+                        password: "password") 
     @henry = User.create!(first_name: "Henry",
                         last_name: "Flynn",
                         email: "henry@example.com",    
