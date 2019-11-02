@@ -12,7 +12,7 @@ gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'devise', '~>4.2.0'
+gem 'devise', '~>4.7.1'
 gem 'jquery-ui-rails', '5.0.5'
 gem 'd3-rails', '4.1.0'
 gem 'will_paginate-bootstrap', '1.0.1'
